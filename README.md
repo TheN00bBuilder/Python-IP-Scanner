@@ -1,8 +1,7 @@
 # Python - IP Scanner
 
-Linux işletim sistemleri için geliştirilmiş ve python dili ile
-yazılmışdır. Gelişmiş bir IP tarama yazılımdır.
+An advanced IP scanning software designed in Python for use with Linux operating systems.
 
 Video : https://www.youtube.com/watch?v=s5w2P3a591o
 
-Kaynak Kod : https://github.com/ismailtasdelen/Python-IP-Scanner
+Source Code : https://github.com/ismailtasdelen/Python-IP-Scanner
